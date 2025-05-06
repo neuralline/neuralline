@@ -1,25 +1,37 @@
 # Hi I'm Darik. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm a Full Stack Web Developer and open source contributor
+Full Stack Developer & Open Source Enthusiast
 
-- 👀 I’m interested in the latest web technologies
-- 🌱 I’m currently learning Microservice Architecture
-- 🔭 I specialise in creating dynamic interactive applications
-- {...love}
+I craft robust web applications and contribute to the developer community through open source.
 
-#### Top Technologies
+```javascript
+const aboutMe = {
+  passion: 'Building elegant solutions to complex problems',
+  focus: 'User-centric applications with clean, maintainable code',
+  lovesTo: 'Collaborate, learn, and share knowledge'
+}
+```
 
-<!-- TODO: Make technologies links takes you to repositories -->
+## Current Journey
 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+- 👀 Exploring the latest advancements in web technologies
+- 🌱 Mastering Microservice Architecture patterns and best practices
+- 🔭 Specializing in creating dynamic, interactive applications with focus on performance
+- 💖 Passionate about clean code, accessibility, and developer experience
 
-<details>
+## Tech Stack
 
-<br >
+<div align="center">
 
-#### Github Stats
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/search?q=user%3AYourUsername+language%3Atypescript)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/search?q=user%3AYourUsername+react)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/search?q=user%3AYourUsername+language%3Ajavascript)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/search?q=user%3AYourUsername+nodejs)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://github.com/search?q=user%3AYourUsername+graphql)
 
-![Darik's github stats](https://github-readme-stats.vercel.app/api?username=neuralline&count_private=true&theme=tokyonight&hide=contribs,prs)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/search?q=user%3AYourUsername+mongodb)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/search?q=user%3AYourUsername+docker)
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/search?q=user%3AYourUsername+aws)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/search?q=user%3AYourUsername+tailwind)
 
-</details>
-
+</div>
